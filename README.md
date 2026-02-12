@@ -49,7 +49,6 @@ spec:
 ```bash
 kubectl apply -f app-service.yml
 ```
-```bash
 # STEP 2 — Install HAProxy on (RHEL 9 or any linux os)
 
 ```bash
